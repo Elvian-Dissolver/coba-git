@@ -9,5 +9,6 @@ public class Main {
         SpringApplication.run(Main.class);
         System.out.print("Hello");
         System.out.print("Hello from another world");
+        System.out.print("java world");
     }
 }
